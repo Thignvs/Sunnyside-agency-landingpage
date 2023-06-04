@@ -11,7 +11,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Live Page] (https://thignvs.github.io/Sunnyside-agency-landingpage/)
+- Live Site URL: [Live Page](https://thignvs.github.io/Sunnyside-agency-landingpage/)
 
 ### Built with
 
